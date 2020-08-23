@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+I'am
 
 - 🔭 I’m currently working on UI vs UX and Responsive Desings
 - 🌱 I’m currently learning Vue.JS
